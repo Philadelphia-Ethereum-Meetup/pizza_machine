@@ -1,0 +1,1 @@
+This is the contract that allows for notarizing files: http://notarystorage.acronis.com/certificate/129e7842fe828367e150de3e45c51d952123fd80ebd38271d7005e47fd70dd02
